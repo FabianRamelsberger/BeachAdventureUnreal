@@ -17,3 +17,4 @@ In this example, the player can:
   - 🚪 Sliding doors  
   - 📦 Cardboard boxes  
   - 💡 Lamps and other interactive elements
+- 🔍 Use an **inspection feature** to examine objects up close
